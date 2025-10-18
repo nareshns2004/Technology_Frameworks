@@ -1,2 +1,0 @@
-# AWS Solutions Architect
- 
